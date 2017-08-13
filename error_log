@@ -1,0 +1,27 @@
+[28-Jun-2016 01:10:01 Asia/Jakarta] PHP Warning:  require_once(/home/simp8013/public_html/application/config/constants.php): failed to open stream: No such file or directory in /home/simp8013/public_html/system/core/CodeIgniter.php on line 70
+[28-Jun-2016 01:10:01 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '/home/simp8013/public_html/application/config/constants.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/simp8013/public_html/system/core/CodeIgniter.php on line 70
+[28-Jun-2016 01:56:59 Asia/Jakarta] PHP Fatal error:  Call to a member function display() on a non-object in /home/simp8013/public_html/application/controllers/Pohon_user.php on line 26
+[28-Jun-2016 01:58:57 Asia/Jakarta] PHP Fatal error:  Call to a member function display() on a non-object in /home/simp8013/public_html/application/controllers/Pohon_user.php on line 26
+[28-Jun-2016 02:00:10 Asia/Jakarta] PHP Fatal error:  Call to a member function display() on a non-object in /home/simp8013/public_html/application/controllers/Pohon_user.php on line 26
+[28-Jun-2016 02:00:14 Asia/Jakarta] PHP Fatal error:  Call to a member function display() on a non-object in /home/simp8013/public_html/application/controllers/Pohon_user.php on line 26
+[28-Jun-2016 02:02:36 Asia/Jakarta] PHP Fatal error:  Call to a member function display() on a non-object in /home/simp8013/public_html/application/controllers/Pohon_user.php on line 26
+[28-Jun-2016 02:08:16 Asia/Jakarta] PHP Fatal error:  Call to a member function display() on a non-object in /home/simp8013/public_html/application/controllers/Pohon_user.php on line 27
+[28-Jun-2016 02:08:18 Asia/Jakarta] PHP Fatal error:  Call to a member function display() on a non-object in /home/simp8013/public_html/application/controllers/Pohon_user.php on line 27
+[28-Jun-2016 02:12:50 Asia/Jakarta] PHP Fatal error:  Call to a member function display() on a non-object in /home/simp8013/public_html/application/controllers/Pohon_user.php on line 26
+[28-Jun-2016 02:15:46 Asia/Jakarta] PHP Fatal error:  Call to a member function display() on a non-object in /home/simp8013/public_html/application/controllers/Pohon_user.php on line 26
+[28-Jun-2016 02:15:50 Asia/Jakarta] PHP Fatal error:  Call to a member function display() on a non-object in /home/simp8013/public_html/application/controllers/Pohon_user.php on line 26
+[28-Jun-2016 02:15:52 Asia/Jakarta] PHP Fatal error:  Call to a member function display() on a non-object in /home/simp8013/public_html/application/controllers/Pohon_user.php on line 26
+[28-Jun-2016 02:19:58 Asia/Jakarta] PHP Fatal error:  Call to a member function display() on a non-object in /home/simp8013/public_html/application/controllers/Pohon_user.php on line 26
+[28-Jun-2016 02:23:43 Asia/Jakarta] PHP Fatal error:  Call to a member function cek_login() on a non-object in /home/simp8013/public_html/application/controllers/Pohon.php on line 11
+[28-Jun-2016 02:28:39 Asia/Jakarta] PHP Fatal error:  Call to a member function display() on a non-object in /home/simp8013/public_html/application/controllers/Pohon_User.php on line 26
+[28-Jun-2016 02:30:16 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/simp8013/public_html/application/controllers/Pohon_User.php on line 26
+[28-Jun-2016 02:31:23 Asia/Jakarta] PHP Fatal error:  Call to a member function display() on a non-object in /home/simp8013/public_html/application/controllers/Pohon_User.php on line 26
+[28-Jun-2016 02:41:04 Asia/Jakarta] PHP Fatal error:  Call to a member function display() on a non-object in /home/simp8013/public_html/application/controllers/Pohon_User.php on line 26
+[28-Jun-2016 02:41:35 Asia/Jakarta] PHP Fatal error:  Call to a member function display() on a non-object in /home/simp8013/public_html/application/controllers/Pohon_User.php on line 26
+[28-Jun-2016 02:41:37 Asia/Jakarta] PHP Fatal error:  Call to a member function display() on a non-object in /home/simp8013/public_html/application/controllers/Pohon_User.php on line 26
+[28-Jun-2016 02:44:11 Asia/Jakarta] PHP Fatal error:  Call to a member function cek_login() on a non-object in /home/simp8013/public_html/application/controllers/Pohon.php on line 11
+[28-Jun-2016 02:45:27 Asia/Jakarta] PHP Fatal error:  Call to a member function display() on a non-object in /home/simp8013/public_html/application/controllers/Pohon_User.php on line 26
+[28-Jun-2016 02:45:29 Asia/Jakarta] PHP Fatal error:  Call to a member function display() on a non-object in /home/simp8013/public_html/application/controllers/Pohon_User.php on line 26
+[28-Jun-2016 02:47:34 Asia/Jakarta] PHP Fatal error:  Call to a member function display() on a non-object in /home/simp8013/public_html/application/controllers/Pohon_User.php on line 26
+[28-Jun-2016 09:41:38 Asia/Jakarta] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/simp8013/public_html/koneksi.php on line 7
+[28-Jun-2016 09:45:13 Asia/Jakarta] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/simp8013/public_html/koneksi.php on line 7
